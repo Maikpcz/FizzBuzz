@@ -44,4 +44,9 @@ class MainTest {
         String actual = Main.Fizzbuzz(5);
         assertEquals("buzz", actual);
     }
+
+    @Test
+    void testSchleife() {
+
+    }
 }
